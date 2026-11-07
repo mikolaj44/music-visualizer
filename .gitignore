@@ -1,0 +1,7 @@
+.cache/
+.vs/
+.vscode/
+out/
+build/
+AudioFile/
+cli11/
